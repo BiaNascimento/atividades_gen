@@ -1,4 +1,4 @@
-import readlinesync from "readline-sync";
+import readlinesync = require("readline-sync");
 
 let numeros = new Set<number>();
 

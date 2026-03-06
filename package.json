@@ -1,5 +1,28 @@
 {
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+   "type": "commonjs",
+   "dependencies": {
+      "@types/node": "^25.3.3",
+      "readline-sync": "^1.4.10"
+   },
+   "name": "atividades_gen",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BiaNascimento/atividades_gen.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/BiaNascimento/atividades_gen/issues"
+   },
+   "homepage": "https://github.com/BiaNascimento/atividades_gen#readme",
+   "devDependencies": {
+      "@types/readline-sync": "^1.4.8"
+   }
 }
